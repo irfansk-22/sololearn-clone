@@ -29,7 +29,7 @@ hr {
 }
 
 .navbar {
-  padding: 2.5rem 3.5rem 3.5rem;
+  padding: 1.5rem 3.5rem 1.5rem;
 }
 
 .brand-logo {
@@ -48,10 +48,6 @@ hr {
 .sign-in.btn {
   background-color: #1abc9c;
   color: white;
-}
-
-.sign-in.btn:hover {
-  background-color: #42b199;
 }
 
 /* title */
@@ -86,19 +82,18 @@ hr {
 .title-link {
   font-size: 1rem;
   font-weight: 700;
-  color: #15828a;
+  color: #1abc9c;
   text-decoration: underline;
 }
 
 .btn-success {
   color: #fff;
-  background-color: #15828a;
-  border-color: #15828a;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
   margin: 15px 0;
 }
 
 .btn-success:hover {
-  color: #fff;
   background-color: #0b666d;
   border-color: #0b666d;
 }
@@ -117,6 +112,7 @@ hr {
 
 .title-link:hover {
   color: #0b666d;
+  text-decoration: none;
 }
 
 /* COURSES SECTION */
@@ -587,7 +583,7 @@ footer {
     height: 100%;
     bottom: -27px;
     right: 50%;
-    transform: translateX(50%); /*search more about this*/
+    transform: translateX(50%);
   }
 
   /* REVIEW Section */
