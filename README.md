@@ -15,5 +15,4 @@ The landing page clone of sololearn's website look's very similar to it (previou
 ## About this project
 
 - Completely mobile responsive
-- Looks very similar to the original sololearn's landing page
 - Built it while practicing bootstrap 4.
